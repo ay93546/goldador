@@ -63,7 +63,8 @@
       "stingray8",
       "szzxt",
       "tejaschaudhari131",
-      "veriivy"
+      "veriivy",
+      "ziwei-che"
     ]
   },
   "andrew_ids": {
@@ -130,7 +131,8 @@
       "tchaudha",
       "tingrayc",
       "yumengg2",
-      "yutailon"
+      "yutailon",
+      "ziweiche"
     ]
   },
   "teams": {
@@ -161,6 +163,32 @@
         "Andrew-Inbox"
       ],
       "create_oidc_clients": false
+    },
+    "cmu-bulletin": {
+      "name": "CMU Bulletin",
+      "description": "Your one-stop shop for everything happening at Carnegie Mellon. Never miss an event on campus again.\n",
+      "members": {
+        "github_usernames": [
+          "ziwei-che"
+        ],
+        "andrew_ids": [
+          "ziweiche"
+        ]
+      },
+      "admins": {
+        "github_usernames": [
+          "ziwei-che"
+        ],
+        "andrew_ids": [
+          "ziweiche"
+        ]
+      },
+      "repos": [
+        "CMU-Bulletin"
+      ],
+      "create_oidc_clients": true,
+      "website": "cmubulletin.com",
+      "server": "your-team-server.com"
     },
     "cmu-scottytasks": {
       "name": "CMU-ScottyTasks",
@@ -195,14 +223,16 @@
           "Yuxiang-Huang",
           "a-varigonda",
           "dishon949",
-          "hanabenko"
+          "hanabenko",
+          "ziwei-che"
         ],
         "andrew_ids": [
           "avarigon",
           "hbenko",
           "ndishon",
           "semathew",
-          "yh4"
+          "yh4",
+          "ziweiche"
         ]
       },
       "admins": {
